@@ -1,0 +1,2 @@
+REVIEWBOARD_URL = 'http://btpvm2652.hpeswlab.net/'
+REPOSITORY = 'hello-world'
